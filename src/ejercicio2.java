@@ -18,7 +18,5 @@ public class ejercicio2 {
     suma = numero1 + numero2 + numero3;
 
     System.out.println("la suma de "+ numero1+" + "+numero2+" + "+ numero3 + " = "+ suma);
-
-    
   }
 }
